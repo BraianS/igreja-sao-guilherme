@@ -1,6 +1,6 @@
 # Igreja São Guilherme
 
-Site da Igreja São Guilherme desenvolvido para divulgação da comunidade, informações sobre missas, eventos, contatos e atividades pastorais.
+Protótipo de site institucional desenvolvido para a Igreja São Guilherme de Sorocaba/SP. Este projeto foi criado de forma independente para demonstração de habilidades em desenvolvimento web e apresentação de uma proposta digital para a comunidade, não possuindo vínculo oficial com a instituição.
 
 ## ✨ Tecnologias
 
