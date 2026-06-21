@@ -1,0 +1,158 @@
+{
+  "hero": {
+    "subtitle": "Igreja São Guilherme",
+    "title": {
+      "mainText": "Conectando vidas a ",
+      "highlightedText": "propósitos"
+    },
+    "description": "Uma igreja acolhedora, centrada na Palavra e movida pelo amor de Cristo.",
+    "buttons": {
+      "primary": {
+        "text": "Conheça a igreja",
+        "href": "#sobre"
+      },
+      "secondary": {
+        "text": "Fale conosco",
+        "href": "#contato"
+      }
+    },
+    "image": {
+      "src": "/images/igreja2.png",
+      "alt": "Igreja São Guilherme"
+    }
+  },
+  "noticia": {
+    "info": "Fique por dentro",
+    "titulo": "Notícias & Eventos",
+    "paragrafo": "Celebrações, encontros e novidades da nossa comunidade paroquial.",
+    "cards": [
+      {
+        "id": "1",
+        "data": "25 de Maio, 2026",
+        "titulo": "Grupo das Irmãs",
+        "descricao": "Nesta segunda-feira teremos nosso encontro mensal de oração e comunhão. Venha participar e compartilhar um momento especial conosco.",
+        "categoria": "Círculo de Oração"
+      },
+      {
+        "id": "2",
+        "data": "31 de Maio, 2026",
+        "titulo": "Culto de Celebração em Família",
+        "descricao": "Prepare sua família para um domingo especial de adoração, palavra viva e ceia do Senhor. Traga um visitante!",
+        "categoria": "Culto"
+      },
+      {
+        "id": "3",
+        "data": "06 de Junho, 2026",
+        "titulo": "Ação Social Comunitária",
+        "descricao": "Estaremos arrecadando alimentos não perecíveis e agasalhos para distribuição na comunidade local. Faça sua parte.",
+        "categoria": "Social"
+      }
+    ]
+  },
+  "sobre": {
+    "info": "Nossa história",
+    "sobre": "Sobre a igreja",
+    "pastores": [
+      {
+        "nome": "Pr. Osmar Goulart da Silva",
+        "cargo": "Pastor Presidente",
+        "imageUrl": "/images/pastor-presidente.jpg",
+        "bio": "aaaa",
+        "versiculo": "O Senhor é o meu pastor, nada me faltará. — Salmo 23:1"
+      },
+      {
+        "nome": "Pr. Andre Luiz",
+        "cargo": "Pastor Local",
+        "imageUrl": "/images/pastor.jpg",
+        "bio": "aaaa",
+        "versiculo": "O Senhor é nosso pastor"
+      }
+    ],
+    "historia": "Fundada no coração da comunidade, a Igreja São Guilherme é um espaço de acolhimento, fé e crescimento espiritual para famílias de todas as idades e origens.\nCom décadas de história, nossa paróquia une tradição e modernidade na missão de servir, acolher e evangelizar todos que chegam até nós com o coração aberto.\nVenha fazer parte desta família. Nossa porta está sempre aberta."
+  },
+  "navegacao": [
+    {
+      "nome": "Início",
+      "href": "/"
+    },
+    {
+      "nome": "Horários",
+      "href": "#horarios"
+    },
+    {
+      "nome": "Noticías",
+      "href": "#noticias"
+    },
+    {
+      "nome": "Galeria",
+      "href": "#galeria"
+    },
+    {
+      "nome": "Contato",
+      "href": "#contato"
+    }
+  ],
+  "horarios": {
+    "subtitulo": "Cultos & Celebrações",
+    "titulo": "Programação da Semana",
+    "descricao": "Venha celebrar conosco. Todos os cultos são abertos à comunidade e visitantes.",
+    "cultos": [
+      {
+        "data": "2026-06-01T19:30:00",
+        "nome": "Células de Discipulado",
+        "titulo": "Encontros em Pequenos Grupos",
+        "descricao": "Momento de discipulado e comunhão em células, fortalecendo relacionamentos e fé."
+      },
+      {
+        "data": "2026-06-03T19:30:00",
+        "nome": "Culto de Oração e Palavra",
+        "titulo": "Noite de Oração",
+        "descricao": "Culto voltado para intercessão e meditação na Palavra de Deus."
+      },
+      {
+        "data": "2026-06-05T19:30:00",
+        "nome": "Encontro de Jovens",
+        "titulo": "Juventude em Ação",
+        "descricao": "Celebração dinâmica com louvor, Palavra e comunhão entre os jovens."
+      },
+      {
+        "data": "2026-06-06T15:00:00",
+        "nome": "Ação Social & Evangelismo",
+        "titulo": "Servindo à Comunidade",
+        "descricao": "Atividades sociais e evangelísticas para abençoar a cidade e compartilhar o amor de Cristo."
+      },
+      {
+        "data": "2026-06-07T09:00:00",
+        "nome": "Escola Bíblica",
+        "titulo": "Aprendizado da Palavra",
+        "descricao": "Estudo bíblico para todas as idades, aprofundando o conhecimento das Escrituras.",
+        "destaque": true
+      },
+      {
+        "data": "2026-06-07T10:30:00",
+        "nome": "Culto de Celebração",
+        "titulo": "Adoração e Louvor",
+        "descricao": "Culto principal da semana, com louvor, Palavra e celebração comunitária.",
+        "destaque": true
+      },
+      {
+        "data": "2026-06-07T18:00:00",
+        "nome": "Culto da Noite",
+        "titulo": "Encerramento do Domingo",
+        "descricao": "Culto noturno com mensagem inspiradora e momentos de adoração.",
+        "destaque": true
+      }
+    ]
+  },
+  "contato": {
+    "info": "Venha nos visitar",
+    "titulo": "Localização & Contato",
+    "paragrafo": "Encontre-nos e faça parte das nossas celebrações semanais.",
+    "endereco": "Av. Edward Fru Fru Marciano da Silva, 229",
+    "bairro": "Jardim São Guilherme",
+    "cidadeEstado": "Sorocaba - SP",
+    "cep": "18074-630",
+    "telefone": "(15) 3222-2096",
+    "linkMapa": "https://maps.google.com/?q=Av.+Edward+Fru+Fru+Marciano+da+Silva,+229+-+Jardim+Sao+Guilherme,+Sorocaba+-+SP"
+  }
+}
